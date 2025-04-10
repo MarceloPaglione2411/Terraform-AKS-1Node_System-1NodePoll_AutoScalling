@@ -25,5 +25,7 @@ Use o Azure CLI para baixar o kubeconfig:  <i> az aks get-credentials --resource
 ### 2. Teste o acesso <h3>
 Liste os nós do cluster para confirmar a conexão: <i> kubectl get nodes <i> 
 
+
+
 ![imagem do projeto](cluster.jpg)
 
